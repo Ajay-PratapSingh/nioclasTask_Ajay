@@ -1,0 +1,7 @@
+.question{
+    background-color: #ECF0F1;
+    border-radius:5px;;
+    min-height: fit-content;
+    width: 80%;
+    padding: 10px;
+  }
